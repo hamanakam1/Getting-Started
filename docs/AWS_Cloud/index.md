@@ -19,7 +19,7 @@
 
     1. Create a ubuntu 16.04 vm
 
-    2. ssh into the vm create at step a. and run the following: ip a
+    2. ssh into the vm created in step a. and run the following: ip a
 
     3. Paste the output here:
 
